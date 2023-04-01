@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/lab": "5.0.0-alpha.124",
+    "@mui/material": "latest",
+    "@react-spring/web": "9.7.1",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.11.15/docs/data/material/components/accordion/BasicAccordion.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
